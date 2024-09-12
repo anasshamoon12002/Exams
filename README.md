@@ -469,6 +469,23 @@ Other questions
 
 ## COMPUTATIONAL NEUROSCIENCE
 - Be the first to contribute, open a pull request with your oral questions or other relevant material!
+<details>
+  <summary>:us: July 2024</summary>
+  
+  The professor asked me the following things just in case somebody wants to know for preparation:
+  1. Equations for Hodgkin Huxley model and explanation of the terms what those mean
+  2. What are asymptotic values and what to they represent in the equation
+  3. Is this model formal model or can you produce spikes from the equations.
+  4. Do you know how and when can you produce spikes based upon the asymptotic values (I had to come up with the rough sketch of asymptotic values graph and then explain from the equations also when there would be a spike and when there would be hyperpolarization) and the equation.
+  5. Do you know any model of formal spikes. (I told about integrate fire model and all equations and their explanation)
+  6. He asked me about hebbian learning rule (I wrote the equation and explained the equation too). Then he asked me what things you check when you define a rule (I talked about stability), he asked if I can tell this is stable or not. I did the derivation of stability showing that it is unbounded.
+  7. He asked if I know any rule which can mitigate the problem of stability. I talked about Oja rule. He asked can you prove if it's stable or not. I did the derivation for it showing that it is bounded.
+  8. Asked me about Echo State Networks what they are. (I answered by writing its equation and comparing it to RNN and telling that the weight matrices are chosen such that ESP is satisfied).
+  9. He asked me what are the conditions for ESP. I talked about sufficient and necessary conditions and told him what they are.
+  10. Asked me if I can prove the ESP conditions.
+  
+  He asked me almost everything actually. 🤡
+</details>
 
 
 ## DATA MINING
