@@ -468,7 +468,6 @@ Other questions
 
 
 ## COMPUTATIONAL NEUROSCIENCE
-- Be the first to contribute, open a pull request with your oral questions or other relevant material!
 <details>
   <summary>:us: July 2024</summary>
   
